@@ -3,7 +3,8 @@
 ## Introduction
 This project provide a sample that shows how to create, host and consume a **SOAP service** in .Net 6.  
 I also wrote an article in the following address that compare REST and SOAP services and completely explains implementation of **SOAP** service in C#:  
- 
+https://www.linkedin.com/pulse/rest-vs-soap-implementation-using-c-amir-doosti-l7cmf  
+
 I also have two articles for **Understanding REST** and **Understanding SOAP** that may help you to understand REST and SOAP better.  
 https://www.linkedin.com/pulse/understanding-soap-amir-doosti-rbcnf/  
 https://www.linkedin.com/pulse/understanding-rest-amir-doosti-2epkf/  
